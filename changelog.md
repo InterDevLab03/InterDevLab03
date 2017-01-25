@@ -4,9 +4,9 @@ Team membership:  Rebecca Fu & Hao(Leo) Luo
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version PHP5.6*
+## *Version 1.0*
 
-Release Date: 08 Dec, 2016
+Release Date: Jan 25, 2017
 
 ## New Components
 
@@ -16,7 +16,8 @@ Release Date: 08 Dec, 2016
     -   Gallery (Leo)
 	
 -   views
-
+	
+	-	template(Rebecca)
     -   about (Leo)
     -   gallery (Leo)
     
@@ -29,14 +30,18 @@ Release Date: 08 Dec, 2016
 -   controllers
 
     -   Welcome (Leo)
-	-   Welcome (Leo)
-	-   Gallery (Leo)
-	-   Aboout (Leo)
+	-   Welcome (Rebecca)	-	link path changed
+	-   Gallery (Rebecca)	-	link path changed
+	-   Aboout (Rebecca)	-	link path changed
 
 -   models
 
     -   italian (AB)
 
 -   views
+
     -   welcome (Leo)
+ 	-   Welcome (Rebecca)	-	use template
+	-   Gallery (Rebecca)	-	use template
+	-   Aboout (Rebecca)	-	use template
 
