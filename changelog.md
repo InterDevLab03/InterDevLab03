@@ -12,22 +12,21 @@ Release Date: Jul 26, 2027
 
 -   controllers
 
-    -   serbian (AB)
+    -   About (Leo)
+    -   Gallery (Leo)
+-   views
+    -   about (Leo)
+    -   gallery (Leo)
     
 ## Updated Components
 
 -   controllers
-
-    -   german (CD)
-    -   hindi (CD)
+    -   Welcome (Leo)
 
 -   models
 
     -   italian (AB)
 
 -   views
-
-    -   slovenian (AB)
-    -   swedish
-
+    -   welcome (Leo)
 
