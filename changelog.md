@@ -1,10 +1,10 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Rebecca Fu & Hao(Leo) Luo 
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version PHP5.6*
 
 Release Date: Jul 26, 2027
 
