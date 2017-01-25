@@ -6,7 +6,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version PHP5.6*
 
-Release Date: Jul 26, 2027
+Release Date: 08 Dec, 2016
 
 ## New Components
 
@@ -14,14 +14,24 @@ Release Date: Jul 26, 2027
 
     -   About (Leo)
     -   Gallery (Leo)
+	
 -   views
+
     -   about (Leo)
     -   gallery (Leo)
     
 ## Updated Components
 
+-	core
+
+	-	MY_Controller(Rebecca) - change data for "pagetitle"
+
 -   controllers
+
     -   Welcome (Leo)
+	-   Welcome (Leo)
+	-   Gallery (Leo)
+	-   Aboout (Leo)
 
 -   models
 
