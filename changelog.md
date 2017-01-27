@@ -17,31 +17,56 @@ Release Date: Jan 25, 2017
 	
 -   views
 	
-	-	template(Rebecca)
+    -	template(Rebecca)
     -   about (Leo)
     -   gallery (Leo)
+
     
 ## Updated Components
 
--	core
-
-	-	MY_Controller(Rebecca) - change data for "pagetitle"
+     -	core
+     -	MY_Controller(Rebecca) - change data for "pagetitle"
 
 -   controllers
 
     -   Welcome (Leo)
-	-   Welcome (Rebecca)	-	link path changed
-	-   Gallery (Rebecca)	-	link path changed
-	-   Aboout (Rebecca)	-	link path changed
+    -   Welcome (Rebecca)	-	link path changed
+    -   Gallery (Rebecca)	-	link path changed
+    -   Aboout (Rebecca)	-	link path changed
+
+-   views
+    -   welcome (Leo) 
+    -   Gallery (Leo)
+
+Release Date: Jul 26, 2017
+
+## New Components
+
+-   controllers
+    -
+
+-   views
+    -   _cell (Leo)
+
+-   models
+    -   Images(Leo)
+    
+## Updated Components
+
+-   controllers
+    -   Welcome (Leo)
 
 -   models
 
-    -   italian (AB)
+    -   
 
 -   views
+    -   welcome (Leo) 
+    -   Gallery (Leo)
 
-    -   welcome (Leo)
- 	-   Welcome (Rebecca)	-	use template
-	-   Gallery (Rebecca)	-	use template
-	-   Aboout (Rebecca)	-	use template
+-   Config
+    -   database
+    -   autoload
+    -    .gitignore
+
 
