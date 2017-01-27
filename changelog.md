@@ -24,7 +24,7 @@ Release Date: Jan 25, 2017
     
 ## Updated Components
 
-     -	core
+-   core
      -	MY_Controller(Rebecca) - change data for "pagetitle"
 
 -   controllers
@@ -35,15 +35,14 @@ Release Date: Jan 25, 2017
     -   Aboout (Rebecca)	-	link path changed
 
 -   views
+
+    -   Welcome (Rebecca)	->	delete duplicate contents in template file
+    -   Gallery (Rebecca)	->	delete duplicate contents in template file
+    -   Aboout (Rebecca)	->	delete duplicate contents in template file
     -   welcome (Leo) 
     -   Gallery (Leo)
 
-Release Date: Jul 26, 2017
-
 ## New Components
-
--   controllers
-    -
 
 -   views
     -   _cell (Leo)
@@ -56,10 +55,6 @@ Release Date: Jul 26, 2017
 -   controllers
     -   Welcome (Leo)
 
--   models
-
-    -   
-
 -   views
     -   welcome (Leo) 
     -   Gallery (Leo)
@@ -67,6 +62,6 @@ Release Date: Jul 26, 2017
 -   Config
     -   database
     -   autoload
-    -    .gitignore
+    -   .gitignore
 
 
