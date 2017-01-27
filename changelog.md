@@ -30,15 +30,15 @@ Release Date: Jan 25, 2017
 -   controllers
 
     -   Welcome (Leo)
-    -   Welcome (Rebecca)	-	link path changed
-    -   Gallery (Rebecca)	-	link path changed
-    -   Aboout (Rebecca)	-	link path changed
+    -   Welcome (Rebecca)	->link path changed
+    -   Gallery (Rebecca)	->link path changed
+    -   Aboout (Rebecca)	->link path changed
 
 -   views
 
-    -   Welcome (Rebecca)	->	delete duplicate contents in template file
-    -   Gallery (Rebecca)	->	delete duplicate contents in template file
-    -   Aboout (Rebecca)	->	delete duplicate contents in template file
+    -   Welcome (Rebecca)	->delete duplicate contents in template file
+    -   Gallery (Rebecca)	->delete duplicate contents in template file
+    -   Aboout (Rebecca)	->delete duplicate contents in template file
     -   welcome (Leo) 
     -   Gallery (Leo)
 
